@@ -15,7 +15,22 @@ git status
 
 ## Git初始化  
 git config --global user.name 'dhkdhk'设置用户名  
-git config --global user.name '1336442150@qq.com'    
+git config --global user.eamil '1336442150@qq.com'    
+
+1、  
+git init 生成 .git隐藏文件  
+2、添加到暂存区  
+git stats     当前状况  
+git add test.php/hello.php  
+3、从暂存区添加到仓库  
+git commit -m  ‘test.php/hello.php’  
+git commit -m  ‘第一次提交’  
 
 
-git init 生成 .git隐藏文件
+删除文件  
+1、  
+rm -rf test.php/hello.php  
+2、   
+git rm test.php/hello.php    
+3、  
+git commit -m '第一次删除'  
