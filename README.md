@@ -57,10 +57,11 @@ git push
 ## github个人网站     
 dhkdhk.github.io  
 
-## project page 项目站点  
+### project page 项目站点  
 https://dhkdhk.github.io/项目名  
 
-
+项目中的 setting设置页面  
+index.html可以修改页面信息  
 
 
 
