@@ -51,10 +51,11 @@ git add new.md
 3、从暂存区添加到仓库  
 git commit -m  “第一次git提交”  
 4、将本次仓库提交到远程仓库  
-git push  
+git push    
   
 
-
+## github个人网站     
+dhkdhk.github.io  
 
 
 
