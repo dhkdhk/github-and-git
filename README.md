@@ -44,15 +44,15 @@ git commit -m '第一次删除'
 Git克隆：将远程仓库复制到本地  
 git clone 仓库地址（复制）
 
-1、创建新文件
-vim new.md
-2、加入暂存区  
-git add new.md  
-3、从暂存区添加到仓库
-git commit -m  “第一次git提交”
-4、将本次仓库提交到远程仓库
-git push
-
+1、创建新文件  
+vim new.md  
+2、加入暂存区    
+git add new.md    
+3、从暂存区添加到仓库  
+git commit -m  “第一次git提交”  
+4、将本次仓库提交到远程仓库  
+git push  
+  
 
 
 
